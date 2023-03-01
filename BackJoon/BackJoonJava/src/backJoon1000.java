@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class backJoon1000 {
+public class BackJoon1000 {
 
 	public static void main(String[] args) {
 		
